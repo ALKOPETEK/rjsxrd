@@ -4,4 +4,4 @@
 #announce: t.me/rjsxrd
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://a6abf70b-f734-42e5-ace6-208e4d53d207@85.192.32.138:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd
+vless://9b73c904-e704-4537-ab1a-6aadfc5c535e@g-api1.maps-yandex.net:10120?mode=gun&security=reality&encryption=none&authority=&pbk=TWTC9ME2USNv_Vug-fJ-jeh0NxiLJ7IN9jjJN_3UylY&fp=ios&allowinsecure=0&type=grpc&serviceName=api&sni=apple.com&sid=0d6151ea50972a17#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%232%20t.me%2Frjsxrd
