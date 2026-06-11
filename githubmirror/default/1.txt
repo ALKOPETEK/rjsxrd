@@ -4,11 +4,13 @@
 #announce: t.me/rjsxrd
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vmess://eyJhZGQiOiAicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwgImlkIjogImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHU0ZmM0XHU3ZjU3XHU2NWFmIFNhbWFyYSBTdGF0ZSBVbml2ZXJzaXR5IiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==#%20t.me%2Frjsxrd
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?encryption=none&host=vms.lifetime04.workers.dev&security=none&type=ws#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM%20t.me%2Frjsxrd
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20t.me%2Frjsxrd
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=/&security=none&type=ws#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM%20t.me%2Frjsxrd
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&security=tls&type=tcp&flow=xtls-rprx-vision#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20t.me%2Frjsxrd
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9%20t.me%2Frjsxrd
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&type=tcp&packetEncoding=none&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20t.me%2Frjsxrd
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&host=vms.lifetime50.workers.dev&path=#%E7%BE%8E%E5%9B%BD+V2CROSS.COM%20t.me%2Frjsxrd
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yNTAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MCIsICJwcyI6ICJcdTgyZjFcdTU2ZmQgVjJDUk9TUy5DT00iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#%20t.me%2Frjsxrd
+vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20t.me%2Frjsxrd
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&type=tcp&packetEncoding=none&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20t.me%2Frjsxrd
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9%20t.me%2Frjsxrd
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM%20t.me%2Frjsxrd
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&type=tcp&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM%20t.me%2Frjsxrd
-trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&security=tls&sni=www.homelywebs.click#%E5%BE%B7%E5%9B%BD+V2CROSS.COM%20t.me%2Frjsxrd
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20t.me%2Frjsxrd
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?alpn=http/1.1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9%20t.me%2Frjsxrd
